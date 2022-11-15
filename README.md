@@ -11,7 +11,7 @@
 4. [Questions](https://react-projects-04-accordionn.netlify.app/)
 5. [Menu](https://react-projects-05-menuu.netlify.app/)
 6. [Tabs](https://react-projects-06-tabss.netlify.app/)
-7. Slider(https://react-projects-07-sliderr.netlify.app/)
+7. [Slider](https://react-projects-07-sliderr.netlify.app/)
 
 #### Forms
 
