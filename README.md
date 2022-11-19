@@ -6,12 +6,12 @@
 
 #### useEffect and Conditional Rendering
 
-2. Tours
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Slider
+2. [Tours](https://react-projects-02-tour.netlify.app/)
+3. [Reviews](https://react-projects-03-reviewss.netlify.app/)
+4. [Questions](https://react-projects-04-accordionn.netlify.app/)
+5. [Menu](https://react-projects-05-menuu.netlify.app/)
+6. [Tabs](https://react-projects-06-tabss.netlify.app/)
+7. [Slider](https://react-projects-07-sliderr.netlify.app/)
 
 #### Forms
 
